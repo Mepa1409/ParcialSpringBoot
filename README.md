@@ -1,6 +1,6 @@
-# Proyecto de SpringBoot
+# Parcial SpringBoot
 
-Ejemplo con SpringBoot para persistir los objetos en una base de datos a través de JPA
+Persiste dos objetos en una base de datos en la nueba utilizando supabase
 
 ## Herramientas
 
